@@ -1,6 +1,8 @@
+// Componensts
+import Phonebook from 'Components/Phonebook/Phonebook';
 
 const App = () => {
-  return "nothing"
+  return <Phonebook />;
 };
 
 export default App;
